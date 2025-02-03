@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/juned-k786/HeartDisease-Detection-ML.git
+   git clone https://github.com/Abhinavkrtiwari/HeartDisease-Detection-ML.git
    cd heart-disease-prediction
 Set up a virtual environment:
 
@@ -100,7 +100,7 @@ Flask Documentation: Flask
 
 Scikit-learn Documentation: Scikit-learn
 
-Made with ❤️ by Mohd Juned Khan
+Made with ❤️ by Abhinav Kumar Tiwari
 
 ### Key Features of the README:
 1. **Badges**: Add badges for live demo, license, and other relevant information.
